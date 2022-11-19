@@ -1,6 +1,3 @@
-#analizador sintactico "parser" que procese adecuadamente las cadenas FEN , despues
-#que se pinte el tablero de ajedrez en la interfaz grafica con fichas unicode 
-
 import tkinter as tk
 
 fen = input("codigo fen: ")
